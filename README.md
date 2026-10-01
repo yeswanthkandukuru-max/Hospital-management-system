@@ -218,17 +218,27 @@ Dear Patient,
 
 We are pleased to confirm your appointment at VisionsDream Hospital.
 
+
 Appointment Details:
-Patient Name: 
-Doctor: 
-Appointment Date: 
-Appointment Time: 
+
+Patient Name:
+
+Doctor:
+
+Appointment Date:
+
+Appointment Time:
+
 Reason for Visit:
+
 Please arrive at the hospital 10–15 minutes before your scheduled appointment
+
 Thank you for choosing VisionDream Hospital.
 
 Regards,
+
 VisionDream Hospital
+
 Reception Team
 
 # ⚡ Actions
