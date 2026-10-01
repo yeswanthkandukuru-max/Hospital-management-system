@@ -171,8 +171,9 @@ Validation rules help ensure that:
 Page layouts are configured to control:
 
 * I created a Record type in Patient Object
-             * Inpatient
-             * Outpatient
+
+  * Inpatient
+  * Outpatient
 
 # 📊 Reports
 
