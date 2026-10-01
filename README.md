@@ -114,7 +114,6 @@ Stores information about treatment provided to patients.
 * Patient
 * Doctor
 * Treatment Date
-* Diagnosis
 * Treatment Details
 * Prescription
 
